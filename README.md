@@ -1,5 +1,6 @@
 # OBS-Colorblind-Simulation
 A set of LUTs and instructtions to turn OBS into a colorblind simulator
+![preview image of the 3 primary colorblind simulation modes working in OBS](https://github.com/Kelpow/OBS-Colorblind-Simulation/blob/main/preview.png?raw=true)
 
 # How to set up
 These instructions are on how to set up Open Broadcasting Software (OBS) to functions as a realtime colorblindness simulator and video recorder. OBS is an open source broadcasting and recording software that also has a "projector" fuction, which makes it perfect for realitme visualizations. This tutorial assumes you have no previous knowledge of how to use OBS.
