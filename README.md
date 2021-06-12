@@ -1,5 +1,5 @@
 # OBS-Colorblind-Simulation
-A set of LUTs and instructtions to turn OBS into a colorblind simulator
+A set of LUTs and instructions to turn OBS into a colorblind simulator
 ![preview image of the 3 primary colorblind simulation modes working in OBS](https://github.com/Kelpow/OBS-Colorblind-Simulation/blob/main/readmepreview.png?raw=true)
 
 # How to set up
